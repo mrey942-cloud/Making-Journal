@@ -28,7 +28,7 @@ layout: default
 *Use the format below to embed images from your assets folder:*
 
 
-`![Alt text](assets/week-01/IMG_7821 3.PNG)`
+`![Alt text](assets/week-01/assets/week-01/IMG_7820 3.PNG)`
 `*Your caption here*`
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
