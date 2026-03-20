@@ -25,11 +25,8 @@ layout: default
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
-
-
 ![Alt text](../assets/week-01/Screenshot%202026-03-20%20at%202.50.56 PM.png)
-`*Your caption here*`
+`* My Notes app where I kept track of my data collection values over 4 days *`
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
