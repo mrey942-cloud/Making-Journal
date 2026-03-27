@@ -27,7 +27,7 @@ layout: default
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="500" height="500"></iframe>
 
 *Your caption here*
 
