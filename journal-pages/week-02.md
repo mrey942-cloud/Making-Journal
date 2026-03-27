@@ -26,12 +26,12 @@ layout: default
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="500" height="500"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="400" height="400"></iframe>
 
-*Your caption here*
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/ZDMG7UiSI" width="400" height="400"></iframe>
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/JYkfNmpAe" width="400" height="400"></iframe>
+
 
 ## AI Usage Statement
 
