@@ -27,8 +27,8 @@ layout: default
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv"></iframe>
 
-![Alt text](../assets/week-02/Smiling_perch_2026_03_20_02_13_55/sketch.js)
 *Your caption here*
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
