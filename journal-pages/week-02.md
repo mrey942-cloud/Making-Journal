@@ -8,10 +8,14 @@ layout: default
 
 ## Documentation 
 
-### What data and visual aspects from Experiment 1 did you choose to work with, and why?
+## In-class Learning
+
+## Independent Learning
+
+#### What data and visual aspects from Experiment 1 did you choose to work with, and why?
 *I chose to work with the eye contact aspect of my experiment because it had some of the largest values in my data collection. I am not a very confident coder, so I used vibe coding to improve my code. I started by trying to complete a working code on my own by referring to the p5.js reference website and past codes I made in class, but after failing multiple times, I used ChatGPT to show me where I was going wrong and to create a basic code. The prompt that I gave the LLM was: “give me a basic code for p5.js that when you click a button labeled ‘eye contact’ a simple drawing of an eye is multiplied.” Once I saw the code that ChatGPT produced, I asked it to break it down for me, which gave me a helpful step-by-step explanation of how it produced its final code. I didn’t want the code to be based on my personal data values yet. I just wanted it to be interactive with the user to convey the idea that when you make eye contact with a person, the value of contact increases. Therefore, the more times you click the “eye contact” button, the more eyes appear on the screen.*
 
-### How did you decide which interactive elements to use?
+#### How did you decide which interactive elements to use?
 *In step 2 of the independent study task, I used my collected data from day 4 (Wednesday). I wanted to start by using interactive features that I thought would be the simplest to use, so I chose sliders and dropdown boxes. Once again, I used vibe coding to help me build my code, and it was helpful to see all the different elements come together to create a visually interactive data portrait.*
 
 ### What can a viewer learn by interacting with your sketch that they couldn't from your hand-drawn portrait?
