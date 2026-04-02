@@ -38,11 +38,14 @@ layout: default
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/ZDMG7UiSI" width="400" height="500"></iframe>
 
+<br> 
+
 ### Vibe Code 3: 
 *For my final iteration, I wanted to create more control over my data. The second iteration was too chaotic, and you couldn't tell the difference between the data when you looked at the drop-down box title. I prompted the vibe code to "create a more structured visualisation with a slider. Make visual icons for each day so there is more differentiation."*
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/JYkfNmpAe" width="400" height="500"></iframe>
 
+<br> 
 
 ## AI Usage Statement
 
