@@ -54,6 +54,10 @@ layout: default
 
 ## - In-class Learning
 
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/-y6BS-QyR" width="400" height="500"></iframe>
+
+*Weather sketch for Tokyo, Japan (35.68°N, 139.69°E). Built in p5.js using live data from the Open-Meteo API. Data variables used: temperature, wind speed, relative humidity, cloud cover, and precipitation. Temperature controls background colour, humidity controls circle size, wind speed controls the bar height, and rain triggers falling drop lines. Developed with ChatGPT for vibe coding.* 
+
 ![Alt text](../assets/week-03/53.png)
 *This was the data protocol that my partner and I made for the in-class activity. We chose to write a protocol about the sounds we heard in the classroom.*
 
