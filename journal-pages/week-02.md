@@ -8,7 +8,7 @@ layout: default
 
 ## Documentation 
 
-## In-class Learning
+## - In-class Learning
 
 *I had never used p5.js before, and I wouldn't describe myself as a confident coder at all, so the idea of building interactive sketches from scratch felt daunting. For the first activity, we were getting familiar with the editor and drawing basic shapes. This helped ease me into the coding process. Having to experiment with colour, size, and position without any real stakes made it feel playful rather than technical, and I started to relax into it.*
 <br>
@@ -21,7 +21,7 @@ layout: default
 
 *For the vibe coding activity, I used ChatGPT to help me build a more professional sketch than I could have come up with on my own. I described what I wanted in plain language and pasted the generated code into the p5.js editor to see what it produced. What struck me was how readable the code was once it was in front of me; even though I couldn't have written it myself, I could follow the logic and start to understand why things were happening. When something didn't work quite right, I went back to ChatGPT to troubleshoot, which felt like a genuine back-and-forth rather than just copying and pasting. It changed how I thought about coding a little; instead of feeling like something I either could or couldn't do, it felt more like a conversation. I still had to make the creative decisions about what I wanted the sketch to do, and understanding the output well enough to direct it meaningfully required more engagement than I expected.*
 
-## Independent Learning
+## - Independent Learning
 
 #### What data and visual aspects from Experiment 1 did you choose to work with, and why?
 *I chose to work with the eye contact aspect of my experiment because it had some of the largest values in my data collection. I am not a very confident coder, so I used vibe coding to improve my code. I started by trying to complete a working code on my own by referring to the p5.js reference website and past codes I made in class, but after failing multiple times, I used ChatGPT to show me where I was going wrong and to create a basic code. The prompt that I gave the LLM was: “give me a basic code for p5.js that when you click a button labeled ‘eye contact’ a simple drawing of an eye is multiplied.” Once I saw the code that ChatGPT produced, I asked it to break it down for me, which gave me a helpful step-by-step explanation of how it produced its final code. I didn’t want the code to be based on my personal data values yet. I just wanted it to be interactive with the user to convey the idea that when you make eye contact with a person, the value of contact increases. Therefore, the more times you click the “eye contact” button, the more eyes appear on the screen.*
@@ -41,22 +41,22 @@ layout: default
 
 ## Images & Media
 
-## In-class Work
+## - In-class Work
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/z9vSkgLy7" width="400" height="500"></iframe> 
 
 *This was a reaction code sketch I made on my own, inspired by an image Leo wanted us to make. I was very proud to have done it on my own.*
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/QUM9Q-oza"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/QUM9Q-oza" width="400" height="500"></iframe>
 
 *This was the first vibe code I created. I asked ChatPGT to "Make me a code for an orange cat in P5.js."*
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/snvfQZ-Pn"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/snvfQZ-Pn" width="400" height="500"></iframe>
 
 *For my second vibe code, I wanted to make something more interesting. I asked ChatGPT to "Make me a code for P5.js that looks like the Mona Lisa painting, make it more detailed than the orange cat code".*
 
 
-## Independent Learning
+## - Independent Work
 
 #### Vibe Code 1: 
 *I gave ChatGPT basic instructions to create code that would visually represent just one aspect of my data. I chose to start with the number of eye contacts I received on day 4. The code was too basic, so I wanted to level it up in the next progression.*
