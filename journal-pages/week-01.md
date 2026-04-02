@@ -8,6 +8,12 @@ layout: default
 
 ## Documentation 
 
+## In Class Learning 
+*For our first in-class activity, we worked in a group of five to collect personal data from each other and turn it into a hand-drawn group portrait. Our five questions were: how much sleep did you get last night, how did you get to uni, how many uni classes did you have today, how focused are you right now, and how old are you. The questions felt like a good mix, some practical, some subjective.*
+*Once we had everyone's answers on post-it notes, we had to figure out how to represent five people visually without using any names. We had to invent a visual language from scratch; each person was given a question to draw. Deciding what would represent each question.*
+*Swapping our portrait with another group and trying to read their visualisation made me realise how much it depends on the choices you make in how you represent data. Some things came through clearly, and others were completely random. You could sense personalities in the patterns even without knowing who was who. That connected well to Giorgia Lupi's ideas about data holding empathy and imperfection, because the hand-drawn format made the whole thing feel personal rather than clinical.*
+
+## Independent Learning
 ### What did you choose to track, and why?
 *I chose to track the following 5 topics. When I make eye contact with a stranger while walking - I chose this because I thought it would be interesting to see how often we connect with strangers without ever thinking about it. How many times I cried - I feel that I am a very emotional person, and I wanted to see how many times I cried over a written-down period. How many times I had a hug - This leads off me being an emotional person who also likes physical contact from my friends and family. How many times I thought about sewing - I have been really into sewing recently, and it is consuming my thoughts when I am bored or doing something else. Every time I like something someone else had - I observe things that other people have often, not out of jealousy, but from curiosity and inspiration. Seeing what people choose to wear and buy is very interesting to me, especially when I see choices I might not have thought of.*  
 

@@ -7,10 +7,9 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
+## Independent Learning
 
-## Weather Spine
-
-### Beginning
+### Process
 *To begin my live data experiment, I brainstormed a range of possible directions for the project. I sketched out ideas for how different live data sources could be translated into physical form. From that brainstorm, I landed on the Weather Spine concept, a growing, vertebrae-like sculpture built from cardboard or paper, where each day's observation adds a new unit to the structure. Once the concept was defined, I trialled the project over three days, checking the weather each morning and translating the conditions — temperature, wind, and sky — into a physical cardboard unit following my own rules. Each unit was folded, scored, or torn according to the day's weather, then added to the growing spine. Throughout the process, I made sure to document my work at each stage, recording both the data I was observing and the physical changes to the sculpture as it accumulated, so that the progression from day one to day three was clearly traceable.*
 
 ### Did you take a digital or analogue/physical approach? Why?
@@ -25,7 +24,7 @@ layout: default
 ### What does your work reveal or communicate about the data?
 *The thing that surprised me most was how the vertebrae of the spine actually looked very different from day to day. If I had spent more time with higher-quality materials, the look would have fluctuated more. Still, as for what I achieved with this prototype physical artefact assignment, I am happy with how it turned out.*
 
-## Did you use vibe coding, LLMs, or other tools in your process? What did you learn?
+### Did you use vibe coding, LLMs, or other tools in your process? What did you learn?
 *I used an LLM (Claude) in the early ideation stage to help develop and stress-test the concept. I described what I was trying to achieve and used that to assess whether the protocol was clear enough for someone else to follow, and to refine the mapping logic. What I learned from that process is that expressing your ideas in a way an AI can understand is actually a useful design exercise in itself. The LLM didn't make creative decisions for me, but it helped me identify gaps in my own thinking faster than I would have on my own.*
 
 ### How does your work relate to the practitioner examples discussed in class?
