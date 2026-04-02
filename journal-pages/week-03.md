@@ -6,7 +6,7 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation <u>
+## Documentation
 
 ## - In-class Learning
 
@@ -64,6 +64,9 @@ layout: default
 
 ![Alt text](../assets/week-03/13.png) 
 *This was the beginning of my brainstorming process. It is where I came up with the idea for the weather spine and developed the project's components.*
+
+![Alt text](../assets/week-03/2222222.png)
+*The above shows my data protection for my project. It is simple enough for anyone to follow along.*
 
 <br> 
 
