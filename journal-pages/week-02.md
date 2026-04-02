@@ -41,6 +41,23 @@ layout: default
 
 ## Images & Media
 
+## In-class Work
+
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/z9vSkgLy7" width="400" height="500"></iframe> 
+
+*This was a reaction code sketch I made on my own, inspired by an image Leo wanted us to make. I was very proud to have done it on my own.*
+
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/QUM9Q-oza"></iframe>
+
+*This was the first vibe code I created. I asked ChatPGT to "Make me a code for an orange cat in P5.js."*
+
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/snvfQZ-Pn"></iframe>
+
+*For my second vibe code, I wanted to make something more interesting. I asked ChatGPT to "Make me a code for P5.js that looks like the Mona Lisa painting, make it more detailed than the orange cat code".*
+
+
+## Independent Learning
+
 #### Vibe Code 1: 
 *I gave ChatGPT basic instructions to create code that would visually represent just one aspect of my data. I chose to start with the number of eye contacts I received on day 4. The code was too basic, so I wanted to level it up in the next progression.*
 

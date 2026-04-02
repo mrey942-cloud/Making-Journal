@@ -36,7 +36,7 @@ layout: default
 ## Images & Media
 ### In-class Work
 ![Alt text](../assets/week-01/Screenshot%202026-04-03%20at%2011.04.24 AM.png)
-*This is a recreation of my group's in-class data drawing, so I didn't get a picture of the original. All the questions and the layout are the same.*
+*This is a recreation of my group's in-class data drawing, as I didn't get a picture of the original. All the questions and the layout are the same.*
 
 ### Independent Study 
 
