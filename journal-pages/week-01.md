@@ -28,6 +28,12 @@ layout: default
 ![Alt text](../assets/week-01/Screenshot%202026-03-20%20at%202.50.56 PM.png)
 `* My Notes app where I kept track of my data collection values over 4 days *`
 
+![Alt text](../assets/week-01/Screenshot%202026-04-02%20at%204.09.03 PM.png)
+`* Data Portrait Output *`
+
+![Alt text](../assets/week-01/Screenshot%202026-04-02%20at%204.11.30 PM.png)
+`* Data Portrait Legend *`
+
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
 ## AI Usage Statement

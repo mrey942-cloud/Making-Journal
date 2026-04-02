@@ -26,11 +26,13 @@ layout: default
 
 ## Images & Media
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="400" height="500"></iframe>
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/ZDMG7UiSI" width="400" height="400"></iframe>
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/JYkfNmpAe" width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/ZDMG7UiSI" width="400" height="500"></iframe>
+
+
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/JYkfNmpAe" width="400" height="500"></iframe>
 
 
 ## AI Usage Statement
