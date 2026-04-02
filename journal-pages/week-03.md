@@ -55,8 +55,10 @@ layout: default
 ## - In-class Learning
 
 ![Alt text](../assets/week-03/53.png)
+*This was the data protocol that my partner and I made for the in-class activity. We chose to write a protocol about the sounds we heard in the classroom.*
 
 ![Alt text](../assets/week-03/63.png)
+*This image shows the output of our data protocol from the other group that we swapped with.*
 
 ## - Independent Learning
 
