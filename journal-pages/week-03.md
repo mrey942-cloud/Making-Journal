@@ -10,7 +10,7 @@ layout: default
 
 ## Weather Spine
 
-### Begining
+### Beginning
 *To begin my live data experiment, I brainstormed a range of possible directions for the project. I sketched out ideas for how different live data sources could be translated into physical form. From that brainstorm, I landed on the Weather Spine concept, a growing, vertebrae-like sculpture built from cardboard or paper, where each day's observation adds a new unit to the structure. Once the concept was defined, I trialled the project over three days, checking the weather each morning and translating the conditions — temperature, wind, and sky — into a physical cardboard unit following my own rules. Each unit was folded, scored, or torn according to the day's weather, then added to the growing spine. Throughout the process, I made sure to document my work at each stage, recording both the data I was observing and the physical changes to the sculpture as it accumulated, so that the progression from day one to day three was clearly traceable.*
 
 ### Did you take a digital or analogue/physical approach? Why?
@@ -42,21 +42,33 @@ layout: default
 
 
 ![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2010.46.06 PM.png)
-*Your caption here*
+*This was the beginning of my brainstorming process. It is where I came up with the idea for the weather spine and developed the project's components.*
+
+<br> 
 
 ![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.05.25 PM.png)
-*Your caption here*
+*This shows my data collection over 3 days, which provided live data for my physical prototype.* 
+
+<br> 
 
 ![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.17.36 PM.png)
+*Each day's physical output. This data collection showed me what each vertebra needed to look like to add to my physical spine.* 
+
+<br> 
 
 ![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.17.29 PM.png)
+*The spine is complete with each of the 3 days' output.*
 
+<br> 
 ![Alt text](../assets/week-03/Weather%20Spine_%20daily%20weather%20data%20sculpture.png)
 
+*AI-generated image (ChatGPT) to solidify my idea for the project and get a different perspective on the outcome.* 
 
-
+<br> 
 
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*During this project, I used two AI tools to support my process. I used Claude as a thinking partner throughout to refine my concept and protocol, and to clean up my written reflections. I also used ChatGPT's image generation to produce a visual mockup of what the Weather Spine sculpture could look like. In both cases, AI was used to support and enhance my own thinking and communication.*
+*Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
+*OpenAI. (2026). ChatGPT (GPT-4o) [Large language model]. https://chatgpt.com* 
