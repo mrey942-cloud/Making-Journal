@@ -26,20 +26,21 @@ layout: default
 
 ## Images & Media
 
+### Vibe Code 1: 
+*I gave ChatGPT basic instructions to create code that would visually represent just one aspect of my data. I chose to start with the number of eye contacts I received on day 4. The code was too basic, so I wanted to level it up in the next progression.*
+
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="400" height="500"></iframe>
 
-`Vibe Code 1:` 
-*I gave ChatGPT basic instructions to create code that would visually represent just one aspect of my data. I chose to start with the number of eye contacts I received on day 4. The code was too basic, so I wanted to level it up in the next progression.*
+### Vibe Code 2: 
+*For my second iteration, I wanted to include all my data from day 4, so I included all 5 aspects of the data collection I examined. I also wanted to make the data visualisation more active. My next vibe code prompt was "make the code more visually appealing for all 5 data collection points for day 4."*
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/ZDMG7UiSI" width="400" height="500"></iframe>
 
-`Vibe Code 2:` 
-*For my second iteration, I wanted to include all my data from day 4, so I included all 5 aspects of the data collection I examined. I also wanted to make the data visualisation more active. My next vibe code prompt was "make the code more visually appealing for all 5 data collection points for day 4."*
+### Vibe Code 3: 
+*For my final iteration, I wanted to create more control over my data. The second iteration was too chaotic, and you couldn't tell the difference between the data when you looked at the drop-down box title. I prompted the vibe code to "create a more structured visualisation with a slider. Make visual icons for each day so there is more differentiation."*
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/JYkfNmpAe" width="400" height="500"></iframe>
 
-`Vibe Code 3:` 
-*For my final iteration, I wanted to create more control over my data. The second iteration was too chaotic, and you couldn't tell the difference between the data when you looked at the drop-down box title. I prompted the vibe code to "create a more structured visualisation with a slider. Make visual icons for each day so there is more differentiation."*
 
 ## AI Usage Statement
 
