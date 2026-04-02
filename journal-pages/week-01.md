@@ -30,15 +30,20 @@ layout: default
 *This exercise aligns with data humanism and 'Dear Data' by turning small, personal moments into meaningful visual stories rather than just numbers. My project focuses on subjective and emotional experiences, such as crying, hugging, and noticing others, which are not usually captured in traditional data sets. The imperfections in my data, like estimating eye contact, reflect the human aspect of data and show that it doesn’t need to be perfectly precise to be valuable. By hand-drawing my visualisation and creating my own visual language, I was able to express personality and individuality, similar to ‘Dear Data’. Overall, this project shows how data can be intimate, reflective, and expressive, helping to tell a deeper story about everyday life.*
 
 ## Images & Media
+### In-class Work
+![Alt text](../assets/week-01/Screenshot%202026-04-03%20at%2011.04.24 AM.png)
+*This is a recreation of my group's in-class data drawing, so I didn't get a picture of the original. All the questions and the layout are the same.*
+
+### Independent Study 
 
 ![Alt text](../assets/week-01/Screenshot%202026-03-20%20at%202.50.56 PM.png)
-`My Notes app where I kept track of my data collection values over 4 days`
+*My Notes app where I kept track of my data collection values over 4 days*
 
 ![Alt text](../assets/week-01/Screenshot%202026-04-02%20at%204.09.03 PM.png)
-`Data Portrait Output`
+*Data Portrait Output*
 
 ![Alt text](../assets/week-01/Screenshot%202026-04-02%20at%204.11.30 PM.png)
-`Data Portrait Legend`
+*Data Portrait Legend*
 
 ## AI Usage Statement
 
