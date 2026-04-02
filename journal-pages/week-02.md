@@ -31,6 +31,8 @@ layout: default
 
 <iframe src="https://editor.p5js.org/mrey942-cloud/full/B5X_BirFv" width="400" height="500"></iframe>
 
+<br> 
+
 ### Vibe Code 2: 
 *For my second iteration, I wanted to include all my data from day 4, so I included all 5 aspects of the data collection I examined. I also wanted to make the data visualisation more active. My next vibe code prompt was "make the code more visually appealing for all 5 data collection points for day 4."*
 
