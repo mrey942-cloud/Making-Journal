@@ -54,24 +54,28 @@ layout: default
 
 ## - In-class Learning
 
+![Alt text](../assets/week-03/53.png)
+
+![Alt text](../assets/week-03/63.png)
+
 ## - Independent Learning
 
-![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2010.46.06 PM.png)
+![Alt text](../assets/week-03/13.png) 
 *This was the beginning of my brainstorming process. It is where I came up with the idea for the weather spine and developed the project's components.*
 
 <br> 
 
-![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.05.25 PM.png)
+![Alt text](../assets/week-03/23.png)
 *This shows my data collection over 3 days, which provided live data for my physical prototype.* 
 
 <br> 
 
-![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.17.36 PM.png)
+![Alt text](../assets/week-03/33.png)
 *Each day's physical output. This data collection showed me what each vertebra needed to look like to add to my physical spine.* 
 
 <br> 
 
-![Alt text](../assets/week-03/Screenshot%202026-04-02%20at%2011.17.29 PM.png)
+![Alt text](../assets/week-03/43.png)
 *The spine is complete with each of the 3 days' output.*
 
 <br> 
