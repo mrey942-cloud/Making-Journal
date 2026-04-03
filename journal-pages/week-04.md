@@ -96,3 +96,7 @@ layout: default
 
 ## AI Usage Statement
 
+*During this experiment, I used ChatGPT to assist with generating and troubleshooting p5.js code for my lake water quality data visualisation. I also used NotebookLM to explore my sources and generate an Audio Overview of my practice as part of the in-class activity. Claude was used to assist with writing and refining my written reflections. AI was helpful as a tool to support my own creative and critical thinking.*
+*Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
+*Google. (2026). NotebookLM [AI research tool]. https://notebooklm.google.com*
+*OpenAI. (2026). ChatGPT (GPT-4o) [Large language model]. https://chatgpt.com*
