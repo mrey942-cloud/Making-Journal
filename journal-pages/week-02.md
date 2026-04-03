@@ -47,7 +47,7 @@ layout: default
 
 *This was a reaction code sketch I made on my own, inspired by an image Leo wanted us to make. I was very proud to have done it on my own.*
 
-<iframe src="https://editor.p5js.org/mrey942-cloud/full/QUM9Q-oza" width="600" height="600"></iframe>
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/QUM9Q-oza" width="400" height="500"></iframe>
 
 *This was the first vibe code I created. I asked ChatPGT to "Make me a code for an orange cat in P5.js."*
 

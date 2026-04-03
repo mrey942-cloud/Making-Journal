@@ -12,13 +12,11 @@ layout: default
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/Es5osaAJV" width="400" height="500"></iframe>
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/z-7DjbVnW" width="400" height="500"></iframe>
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+<iframe src="https://editor.p5js.org/mrey942-cloud/full/hxgMP5pt6" width="400" height="500"></iframe>
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
