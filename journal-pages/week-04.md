@@ -38,6 +38,35 @@ layout: default
 
 *If I were building this without AI, I would deliberately try to move away from the lake theme from the start and challenge myself to find a completely different visual concept for the data, something that didn't rely on the obvious associations the subject evokes.*
 
+### Reflection 
+
+#### What dataset did you choose, and why?
+*I chose the New Zealand lake water quality trends dataset from 2004 to 2013, which tracks variables such as total phosphorus, dissolved oxygen, nitrogen, chlorophyll, and water clarity across lakes across the country. The choice was personal as I genuinely love water and care deeply about the health of New Zealand's natural environment. Knowing that the data behind the visualisation was real and that it represented something I felt connected to made the whole experiment feel more meaningful than if I had just picked a random dataset.*
+
+#### How did AI tools help you understand the data? What did they miss?
+*AI helped me get up to speed quickly by translating technical variables like TP (total phosphorus) and SECCHI (water clarity) into plain language. Without that, I would have spent a lot more time just figuring out what I was looking at, missing the weight of the data. It never conveyed that declining water quality has real consequences for communities, ecosystems, and the places people love.*
+
+#### What design decisions did you make in directing the AI, and what did you learn from this process?
+*As I mentioned earlier, the AI defaulted immediately to a blue colour scheme and a literal, basic interpretation of the data. I had to actively push it toward something more organic and flowing, something that felt like water rather than just a chart about water. The biggest technical challenge was the CSV file not linking properly in p5.js. After trying multiple approaches, I told the AI to embed the data values directly into the code instead. Problem-solving helped me create a working code.*
+
+#### How do the different representations of the same data change what a viewer might understand?
+*A rigid bar chart communicates values clearly but feels cold and disconnected from the subject. The organic, flowing circle-based visualisation I ended up with, where each circle represented a lake, size encoded water quality, and movement suggested change over time, invited you to feel something about the data rather than just read it.* 
+
+#### What questions do D'Ignazio and Klein's ideas raise for your work with this dataset?
+*Even a brief encounter with Data Feminism made me more aware of the assumptions baked into the dataset. The lakes are measured, categorised, and assigned numeric values, but that scientific framing is only one way of knowing them.*
+
+#### How does Mikaere's framing of data as a strategic asset for Māori development challenge or inform how you think about the dataset you chose?
+*Mikaere's idea that data about land and water carries power, and can serve or exclude depending on who controls it, made me look at this dataset differently. Many of the lakes in the dataset hold deep significance for Māori communities. The data was collected scientifically and presented neutrally, but neutrality is its own kind of framing. It made me think of Questions like, 'Who owns this data? 'Who benefits from it?*
+
+#### What was your experience of working with AI as a design tool?
+*It felt like a genuine collaboration in some moments and a frustrating negotiation in others. When it worked, the speed at which an idea moved to something visual on screen was exciting. When it didn't, like the persistent CSV errors, it required a lot of redirecting and troubleshooting that the AI couldn't always solve on its own. Overall, it was most useful as a starting point and a thinking partner, but the creative direction had to come from me.*
+
+#### What would you develop further with more time?
+*I would focus on building my own coding confidence so I could extend what the AI generates rather than depend on it entirely. I'd also want to push the visualisation further, by adding more lakes, more variables, more movement.*
+
+#### Any other reflections?
+*This was one of my favourite experiments in the course alongside week three. What I enjoyed most was watching the code evolve, seeing each iteration get closer to something that felt genuinely beautiful. The final visualisation was organic and lake-like, yet informative, and I felt proud of it.*
+
 ## Images & Media
 
 ## In-class Work
