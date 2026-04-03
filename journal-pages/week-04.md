@@ -10,6 +10,18 @@ layout: default
 
 ## - In-class Learning 
 
+*Week 4 introduced something I hadn't given much thought to before: the difference between running AI locally on your own machine and using a cloud-based tool. On the surface, both do similar things, but once you start using them side by side, the differences become clear.*
+<br>
+
+*Downloading Ollama and running it entirely from my own terminal, with no data leaving my computer, felt different from anything I had done with AI before. There's something almost strange about chatting with a model that exists only on your own machine. I tested it by describing some of my previous experiment data and asking for visualisation ideas, and also tried a prompt I would normally take to ChatGPT to compare the responses. It raised a question I hadn't really sat with before: how much does it matter where your data goes when you use AI, and in what contexts would that actually change your behaviour?*
+<br>
+
+*The NotebookLM activity felt quite different. Rather than generating new content from scratch, it was more about feeding in your own work and seeing how the AI made sense of it. Adding my GitHub Pages journal alongside practitioner websites and other sources and then asking it questions like "what do my sources suggest I care about" produced some genuinely interesting responses. NotebookLM is a website I will definitely be using for studying in the future. It is an amazing AI tool.*
+<br>
+
+*The Audio Overview was the part I found the most amazing. Hearing my own work discussed aloud by a synthetic voice felt insane. It picked up on things I thought were minor and glossed over things I considered central, which made me think about how much of the meaning relies on context that an AI doesn't have access to.*
+
+
 ## - Independent Learning 
 
 *When I first prompted the AI with my dataset, it defaulted to a blue colour scheme, which made sense given that the data was about a lake; it immediately made a visual association between the subject matter and colour. It was a logical but predictable choice, and it showed how quickly AI gravitates toward the most obvious interpretation of a dataset rather than something more unexpected or conceptual.*
@@ -29,6 +41,11 @@ layout: default
 ## Images & Media
 
 ## In-class Work
+
+![Alt text](../assets/week-04/41.png)
+
+*Screenshot of my NotebookLM notebook with all sources added, including my GitHub Pages making journal, practitioner websites, and my context.md file. The notebook was used to explore connections across my work to date and to generate an Audio Overview of my practice.*
+
 
 ## Independent Work
 
