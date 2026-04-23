@@ -17,6 +17,12 @@ layout: default
 *The project would take the form of a yarn installation inspired by the layout of the solar system. I would sit at the centre of the piece, with anonymous friends scattered around the board at varying distances, reflecting real life distance. Yarn would carry the data through different colours, textures, and techniques, encoding different measurable aspects of each friendship: contact frequency, the number of days we exchanged messages, whether we had a FaceTime call, and who initiated contact first. Woven and knotted sections would add further layers of meaning, with every visual choice explained through a legend so that any viewer could read the work without prior knowledge. The artefact would accumulate and shift throughout the observation period, becoming a physical portrait of my friendship network. Most people believe they are good at maintaining friendships. I want audiences to feel uncomfortable when they stand in front of the piece, and to leave with the impulse to reach out to someone they have been meaning to contact. If my work moves even one person to do so, it would have achieved what a bar chart could never.*
 
 
+## Images & Media
+
+![Alt text](../assets/week-05/Untitled_Artwork%2084.png)
+
+*This is a rough sketch of the initial idea for my proposal.*
+
 ## AI Usage Statement
 
 *I used Claude as an ideation in the proposal development process, helping to refine project ideas through conversational prompting. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
