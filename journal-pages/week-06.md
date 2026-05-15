@@ -57,6 +57,8 @@ layout: default
 
 ### Project Planning and Skills Roadmap
 
+[Alt text](../assets/week-06/IMG_1085%203.jpg)
+
 *The diagram shows my idea of my data physicalisation, with a horizontal baseline representing physical distance and a central vertical axis marking my position. Anchor points (black dots) are placed along the baseline at varying distances from the centre, each representing a friend. From each anchor point, yarn strands arc upward toward the centre line; the height and density of the arcs suggest the volume and frequency of contact over the observation period. Multiple coloured lines overlap to build up a layered portrait of each friendship, with colours corresponding to the visual code. The overall form resembles a web or string instrument, dense near the centre and sparse at the outer edges.*
 
 #### What do I need to learn?
@@ -76,21 +78,17 @@ layout: default
 *Colour sourcing — finding yarn and beads in the exact colours specified in the visual code (red, black, pale blue, green, amber, pink, purple, grey) in compatible weights and textures.*
 
 #### What are my next steps?
-*The immediate priority is to begin the 28-day observation period on 4 May and to use the data collection spreadsheet consistently each evening. Before then, I need to source all materials and finalise my rulebook for my data phyciation. Alongside data collection, I will practise the knotting techniques so that single and double overhand knots look visually distinct and can be tied quickly and consistently.* 
+*My next step is to finalise the observation protocol I will use to collect friendship data over a defined period. I need to decide exactly what information I will track daily, such as message frequency, who initiates contact, FaceTime calls, and response patterns. Once this system is clear, I will begin collecting and organising the data in my notebook and phone records.*
+
+*Alongside this, I will begin experimenting with physical visualisation methods using yarn, colour, knotting, and spacing. I want to test how different materials and textures convey emotional closeness, communication consistency, and distance in friendships. Creating small mock-ups will help me understand what visual language is most readable and emotionally effective.*
+
+*I also need to sketch the installation layout and plan how the solar-system-inspired structure will work spatially. Throughout the process, I will document my experiments and reflections with photos and notes to evaluate what works and refine the final installation before constructing the full piece.* 
 
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
-
 `![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-[Alt text](../assets/week-06/IMG_1085%203.jpg)
-*
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*I used Claude as an ideation in the proposal development process, helping to refine project ideas through conversational prompting. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
