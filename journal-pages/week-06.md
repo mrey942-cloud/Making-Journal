@@ -55,6 +55,28 @@ layout: default
 *The principle that a data object should reward examination from multiple perspectives, and that material choice should carry meaning (transparent = looking inward), is directly applicable to physical data project work about distance and friendship.*
 *Direction check: This is one of my most technically useful references, as it models the entire design process of physicalization, including failed iterations, which is rare and valuable.*
 
+### Project Planning and Skills Roadmap
+
+*The diagram shows my idea of my data physicalisation, with a horizontal baseline representing physical distance and a central vertical axis marking my position. Anchor points (black dots) are placed along the baseline at varying distances from the centre, each representing a friend. From each anchor point, yarn strands arc upward toward the centre line; the height and density of the arcs suggest the volume and frequency of contact over the observation period. Multiple coloured lines overlap to build up a layered portrait of each friendship, with colours corresponding to the visual code. The overall form resembles a web or string instrument, dense near the centre and sparse at the outer edges.*
+
+#### What do I need to learn?
+
+*Knotting and bead threading techniques — how to tie consistent overhand and double overhand knots at regular intervals without the yarn bunching or losing tension, and how to thread beads securely so they don't slide.*
+<br> 
+
+*Structural mounting — how to fix yarn strands under tension to a board so anchor points stay stable and the arcs hold their shape over the display period.*
+<br> 
+
+*Data-to-material translation — how to work methodically through 28 days of data per friend and translate each day's entries into physical yarn decisions without losing track or making errors.*
+<br> 
+
+*Consistent data collection — building a reliable daily habit of recording observations accurately across all 11 friends for the full 28-day period.*
+<br> 
+
+*Colour sourcing — finding yarn and beads in the exact colours specified in the visual code (red, black, pale blue, green, amber, pink, purple, grey) in compatible weights and textures.*
+
+#### What are my next steps?
+*The immediate priority is to begin the 28-day observation period on 4 May and to use the data collection spreadsheet consistently each evening. Before then, I need to source all materials and finalise my rulebook for my data phyciation. Alongside data collection, I will practise the knotting techniques so that single and double overhand knots look visually distinct and can be tied quickly and consistently.* 
 
 
 ## Images & Media
