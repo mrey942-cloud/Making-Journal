@@ -84,10 +84,23 @@ layout: default
 
 *I also need to sketch the installation layout and plan how the solar-system-inspired structure will work spatially. Throughout the process, I will document my experiments and reflections with photos and notes to evaluate what works and refine the final installation before constructing the full piece.* 
 
+## - Independent Study
+
+### Consultation Reflection
+*My consultation with Tain went really well and helped me feel more settled on the direction of my project. She was genuinely excited about the idea, which was really reassuring and made me feel more confident moving forward.*
+*One of the most useful things she brought up was my plan to collect and record my data consistently over time. It made me realise I hadn't thought that part through enough, so I put together a spreadsheet with dropdown menus for each data point, with a separate tab for all 11 friends I'm tracking. Each row is a day from 4 May to 31 May, so at the end of each day, I work through the dropdowns and fill in things like yarn colour, who initiated, call minutes, and my mood toward the friendship that day. Having it structured that way means I won't miss anything or have to rely on memory.*
+*She also asked whether I had a clear system for translating the data into visual decisions, which was a really good question. It made me think about how much structure that side of the project actually needs. From that conversation, I started developing a proper visual code guide, mapping out how colours, beads, and knots each represent something specific, which has become one of the most important parts of the project so far.*
+
+### Technical Skill Building
+*My priority from the skills roadmap was finalising my visual coding system before touching any physical materials. Without a resolved rulebook, practising knotting or threading would have been pointless.*
+*I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*
+*Drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
+*The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
 
 ## Images & Media
 
 `![Alt text](../assets/week-01/your-image.jpg)`
+*Independent Study - Initial Concept Sketch*
 
 ## AI Usage Statement
 
