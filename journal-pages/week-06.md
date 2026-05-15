@@ -99,6 +99,10 @@ layout: default
 
 ## Images & Media
 
+![Alt text](../assets/week-06/Screenshot%202026-05-15%20at%203.51.16 PM.png)
+
+*Refining Iterations of my Project - What the beads might look like on yarn*
+
 `![Alt text](../assets/week-01/your-image.jpg)`
 *Independent Study - Initial Concept Sketch*
 
