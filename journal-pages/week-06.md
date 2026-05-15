@@ -64,6 +64,9 @@ layout: default
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
 
+[Alt text](../assets/week-06/IMG_1085%203.jpg)
+*
+
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
 ## AI Usage Statement
