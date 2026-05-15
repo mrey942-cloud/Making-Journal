@@ -57,7 +57,7 @@ layout: default
 
 ### Project Planning and Skills Roadmap
 
-[Alt text](../assets/week-06/IMG_1085%203.jpg)
+![Alt text](../assets/week-06/IMG_1085%203.jpg)
 
 *The diagram shows my idea of my data physicalisation, with a horizontal baseline representing physical distance and a central vertical axis marking my position. Anchor points (black dots) are placed along the baseline at varying distances from the centre, each representing a friend. From each anchor point, yarn strands arc upward toward the centre line; the height and density of the arcs suggest the volume and frequency of contact over the observation period. Multiple coloured lines overlap to build up a layered portrait of each friendship, with colours corresponding to the visual code. The overall form resembles a web or string instrument, dense near the centre and sparse at the outer edges.*
 
