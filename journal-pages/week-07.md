@@ -41,6 +41,12 @@ layout: default
 
 *Feedback given by classmates.*
 
+![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.18.17 PM.png)
+*Radip prototyping Rulebook iteration.*
+
+![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.23.05 PM.png)
+*Rulebook iteration from Alissa's 'what if you stripped it back' variation.*
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
