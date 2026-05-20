@@ -8,6 +8,8 @@ layout: default
 
 ## Documentation 
 
+## - In Class Work
+
 ### 1. Concept Sketches
 
 *The feedback I received from classmates this round wasn't as useful as I'd hoped. I made sure to include a written blurb alongside my sketch to give some context, but a lot of the questions I got back were things like "what does each colour mean," which is something I haven't resolved yet and wasn't the point of sharing the sketch at that stage. The drawing was always meant to show the structure and form of the installation rather than the full coding system, so some of the feedback was missing what I was actually asking people to respond to. That said, it's made me realise that, for a project like this, the rulebook might need to travel with the work, because without it, people get stuck on surface details and can't engage with the bigger ideas.*
@@ -29,6 +31,30 @@ layout: default
 
 *The variation I found most useful to explore further was the radical simplification. It made me interrogate which elements in my rulebook were genuinely earning their place and which were decorative or redundant. I produced a rough plan, stripping the system back to its bare minimum, which ultimately led me to a middle ground, keeping the beads but reducing the yarn palette to four colours and making the knots and beads do more of the work. Alissa's provocation didn't make me abandon the complexity entirely, but it made every element I kept feel like a deliberate choice rather than a default.*
 
+
+*Alissa's challenge to strip everything back forced me to test whether the project could survive on two yarn colours, texture, and knots only. In some ways, it worked. The system was immediately readable, and the texture idea was genuinely interesting, the difference between smooth and rough yarn carrying the emotional quality of a conversation in a way that felt tactile and honest.But sitting with it, I realised it had given up too much. Removing beads entirely meant losing call duration, which felt like a significant loss; a 2-minute check-in and a 3-hour catch-up would look identical on the strand, and that difference matters. The texture idea also started to feel impractical once I considered sourcing materials consistently across 11 strands, with matching weights but different textures, and whether subtle texture differences would even read visually from a distance. What iteration 2 really gave me was an editorial filter. Going back to my first rulebook with fresh eyes, I could now ask of every element, " Is this earning its place, or is it just noise? That question led me to reduce the yarn palette to four colours rather than keeping it open-ended, drop the texture system in favour of beads, which are more precise and sourceable, and keep the knot system largely intact because it was doing clear, irreplaceable work. The final rulebook is more complex than iteration 2 but leaner and more deliberate than iteration 1, which is exactly where I needed to land.*
+
+## - Independent Study
+
+### 1. Project Development & Skill Building
+
+*Coming out of the making sprint and Alissa's what-if variations, I had two very different rulebooks sitting in front of me, one too busy, one too bare. The independent study period was about finding the middle ground and actually committing to something I could start making from.The process was mostly editorial. I went back through both iterations and asked the same question of every element: Is this actually doing something, or is it just there? A few things got cut, a few got kept, and a few got reshaped into something new. The main calls I landed on were:*
+<br>
+
+*Four yarn colours, fixed — red, black, pale blue, green. Each one encodes a clearly different type of day, so you can read the shape of the whole month just from the colour before you even look at anything else.*
+<br>
+
+*Beads back in, but specific — iteration 2 ditched the beads entirely, and I missed them. Grey beads count call minutes, amber marks a reaction-only day, pink marks a voice note, and purple marks an in-person visit. Each one has one job and looks different from the others.*
+<br>
+
+*Knots stayed mostly the same — the initiation system felt right from the start, and I didn't want to lose it. Single knot for me, double for them, cluster for a high volume day, loose loop for a plan made, tight knot for something that felt meaningful*
+<br>
+
+*Added the whole-strand markers — this felt like the biggest conceptual leap. Tail lengths for initiation imbalance across the month, a gap in the strand for a long read receipt, and a frayed end for an unanswered last message. These are the elements that make the emotional labour visible over time, rather than just day by day.*
+<br>
+
+*Getting the rulebook into a final, resolved state felt like a relief. It means when I sit down with the actual yarn and beads, I'm not still making decisions — I'm just executing. That's where I need to be before the physical making can properly begin.*
+
 ## Images & Media
 
 ![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2011.53.19 AM.png)
@@ -41,11 +67,27 @@ layout: default
 
 *Feedback given by classmates.*
 
+<br>
+
 ![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.18.17 PM.png)
 *Radip prototyping Rulebook iteration.*
 
+<br>
+
 ![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.23.05 PM.png)
-*Rulebook iteration from Alissa's 'what if you stripped it back' variation.*
+*Rulebook iteration from Alissa's 'what if you stripped it back' variation using Claude.AI.*
+
+<br>
+
+
+![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.34.30 PM.png)
+*Part 1 of my final rulebook iteration*
+
+<br>
+
+![Alt text](../assets/week-07/Screenshot%202026-05-20%20at%2012.34.45 PM.png)
+*Part 2 of my final rulebook iteration*
+
 
 ## AI Usage Statement
 
