@@ -55,7 +55,9 @@ layout: default
 *Added the whole-strand markers — this felt like the biggest conceptual leap. Tail lengths for initiation imbalance across the month, a gap in the strand for a long read receipt, and a frayed end for an unanswered last message. These are the elements that make the emotional labour visible over time, rather than just day by day.*
 <br>
 
-*Getting the rulebook into a final, resolved state felt like a relief. It means when I sit down with the actual yarn and beads, I'm not still making decisions — I'm just executing. That's where I need to be before the physical making can properly begin.*
+*Getting the rulebook into a final, resolved state felt like a relief. It means when I sit down with the actual yarn and beads, I'm not still making decisions, I'm just executing. That's where I need to be before the physical making can properly begin.*
+
+
 
 ### 2. Progress Report
 

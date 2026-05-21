@@ -45,23 +45,29 @@ layout: default
 ### 2. Project Development
 
 *The next phase is getting physical. Here's where I'm at and what needs to happen:*
+*The base I'm planning to use is a thin square wooden board around 50x50cm, light enough to mount on a wall but sturdy enough to hold the tension from the yarn strands. I'll draw the layout in pencil first, mark my central point, and plot each of the 11 friends at their correct distances to scale before committing to anything permanent.*
 <br>
 
-*The base I'm planning to use is a thin, square wooden board, around 50x50cm, light enough to mount on a wall but sturdy enough to withstand the tension from the yarn strands. I'll hammer small nails or panel pins into the board to mark each friend's anchor point and my central position. The nails need to be strong enough to hold yarn under tension without pulling out. Getting materials, I plan to head to Spotlight to source everything I need: Yarn in the four colours red, black, pale blue, green, in at least two weights (chunky for close friends, medium for everyone else) Seed beads in grey, amber, pink, and purple. Wire 2mm thick for anchor points. A thin wooden board, if they stock them, or I'll try Bunnings.*
+*One challenge I worked through was how to physically display the yarn connections without everything becoming too condensed at the anchor points. My original idea was simple nails or panel pins, but I realised this would bunch the yarn, making it hard to read from a distance. Instead, I'm now thinking about using wire bent into small cascading spirals at each anchor point. The different connection points along the spiral would spread the yarn naturally rather than forcing it all onto one nail, helping the strands breathe and separate visually. This also connects nicely to Alissa's feedback about showing friendship strength. The size of each spiral can vary depending on how close the friendship is, so a best friend gets a larger spiral and a more distant friend gets a smaller one. This means I don't have to change the physical distance of the markers on the board, which stays important for showing geography, but the spiral size adds a second layer of meaning at the anchor point itself. I'll need 2mm wire, which I'll pick up from Spotlight.*
+<br>
 
-*Before buying everything new, I want to try thrifting first op shops often have yarn and sometimes craft supplies, and it feels right for a project about human connection to use materials that have already had a life. There's something poetic about secondhand yarn carrying secondhand warmth. I'll hit a few local op shops first and only go to Spotlight for whatever I can't find. Once I have the board, I need to map out the anchor points before I hammer anything in. I'll draw the layout in pencil first, marking my central point, then plotting each of the 10 friends at their correct distances using a rough scale. I'll also factor in the emotional closeness adjustment from Alissa's feedback by including my spiral wires at each anchor point. Once I have collected enough data to start making, I will start the reaction process, as it will be time-consuming, and I might need to change some making tactics if they don't work out properly.*
+*Getting materials. Before buying everything new, I want to try thrifting first op shops often have yarn and craft supplies, and it feels right for a project about human connection to use materials that have already had a life. There's something poetic about secondhand yarn carrying secondhand warmth. I'll hit a few local op shops first and only go to Spotlight for whatever I can't find. The shopping list is: Yarn in red, black, pale blue, and green, at least two weights, chunky for closer friends and medium for everyone else. Seed beads in grey, amber, pink, and purple. 2mm wire for the spiral anchor points. A thin wooden board, if Spotlight stocks them, otherwise Bunnings*
+<br>
+
+*Building the strands. Once I have enough data collected, I'll start construction, building each strand day by day rather than all at once at the end. This means the installation will be a living, growing object over the 28 days, which adds an honest element to the concept — it's always mid-process, just like the friendships it's documenting. I'm aware that the making will be time-consuming, and I may need to adjust some tactics as I go if things aren't working physically.*
 
 #### What I still need to figure out
-*The best way to attach the yarn to the nails is so that it holds tension cleanly without slipping.Whether to varnish or seal the wood board, or leave it raw. How to display the legend alongside the piece in a way that feels considered rather than like an afterthought, possibly a small printed card mounted beside it.*
+*How to attach yarn to the wire spirals so it holds tension cleanly without slipping. Whether to varnish or seal the wood board, or leave it raw. How to display the legend alongside the piece in a way that feels considered, possibly a small printed card mounted beside it, rather than something stuck directly onto the board*
+
 
 ## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.48 PM.png)
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.44.04 PM.png)
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.31 PM.png)
+
 
 ## AI Usage Statement
 
