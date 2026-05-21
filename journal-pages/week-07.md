@@ -27,7 +27,9 @@ layout: default
 #### 2. What if you stripped it back to only three elements total? 
 *Rather than a complex layered system, what if the whole installation could be read through yarn colour, knot type, and nothing else — no beads at all. The constraint would force each element to carry more meaning, making the piece visually cleaner and more immediate.*
 
-#### 3. What if the installation grew in real time? *Instead of building strands after the observation period ends, what if each strand were added daily and displayed live throughout the month, so audiences could watch the friendships develop rather than seeing the finished portrait all at once?*
+#### 3. What if the installation grew in real time? 
+
+*Instead of building strands after the observation period ends, what if each strand were added daily and displayed live throughout the month, so audiences could watch the friendships develop rather than seeing the finished portrait all at once?*
 
 *The variation I found most useful to explore further was the radical simplification. It made me interrogate which elements in my rulebook were genuinely earning their place and which were decorative or redundant. I produced a rough plan, stripping the system back to its bare minimum, which ultimately led me to a middle ground, keeping the beads but reducing the yarn palette to four colours and making the knots and beads do more of the work. Alissa's provocation didn't make me abandon the complexity entirely, but it made every element I kept feel like a deliberate choice rather than a default.*
 
@@ -54,6 +56,9 @@ layout: default
 <br>
 
 *Getting the rulebook into a final, resolved state felt like a relief. It means when I sit down with the actual yarn and beads, I'm not still making decisions — I'm just executing. That's where I need to be before the physical making can properly begin.*
+
+### 2. Progress Report
+
 
 ## Images & Media
 
