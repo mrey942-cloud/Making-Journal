@@ -13,10 +13,10 @@ layout: default
 ### Data Exploration
 *My data sources are personal and self-collected, drawn directly from my own phone and lived experience. The primary sources are my call and text logs, which document my communication with my friends over time. The third source is physical distance, the measured space between my home and each friend's place of residence, which provides a geographic anchor to set each relationship in context.*
 
-### What the data contains and how it is structured
+#### What the data contains and how it is structured
 *The data captures the texture of long-distance friendship across several dimensions. Quantitatively, it records how long I spent on a call and how many times we texted in. It also holds more binary markers: whether we called that day, whether we texted, whether there was no contact at all, whether we had a physical hangout, and who initiated the call. Together, these fields create a layered picture of each day, not just that contact happened, but how, where, and in which direction it flowed.*
 
-### Limitations, biases, and gaps
+#### Limitations, biases, and gaps
 *The data is largely capturable through existing logs, which is a practical strength. However, it is inherently one-sided; it reflects my record and experience of the friendship, not my friend's, so any effort or emotional weight felt on their end remains invisible in the numbers. There is also a risk of gaps where contact happened outside logged platforms, such as in-person conversations or apps without accessible history, and the data cannot speak to the quality of an interaction, only its form and frequency. For the project, this means the visualisation will be an honest but partial portrait, a trace of connection as seen from one point in the relationship,  which could itself become a meaningful design decision rather than simply a flaw to work around.*
 
 ### Visual Research and Precedent Study
@@ -93,15 +93,16 @@ layout: default
 
 ### Technical Skill Building
 *My priority from the skills roadmap was finalising my visual coding system before touching any physical materials. Without a resolved rulebook, practising knotting or threading would have been pointless.*
-*I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*
-*Drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
-*The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
 
-## Images & Media
 
 ![Alt text](../assets/week-06/Screenshot%202026-05-15%20at%203.51.16 PM.png)
 
 *Refining Iterations of my Project - What the beads might look like on yarn*
+
+
+*I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*
+*Drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
+*The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
 
 `![Alt text](../assets/week-01/your-image.jpg)`
 *Independent Study - Initial Concept Sketch*
