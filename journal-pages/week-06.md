@@ -98,12 +98,13 @@ layout: default
 ![Alt text](../assets/week-06/Screenshot%202026-05-15%20at%203.51.16 PM.png)
 
 *Refining Iterations of my Project - What the beads might look like on yarn*
-
+<br>
 
 *I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*
 *Drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
 *The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
 
+### Inital Concept Sketch
 `![Alt text](../assets/week-01/your-image.jpg)`
 *Independent Study - Initial Concept Sketch*
 
