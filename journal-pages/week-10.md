@@ -40,6 +40,14 @@ layout: default
 *Beyond that, the session confirmed that my overall direction is strong and that the concept is communicating clearly to an outside audience. That in itself is useful information, as it means I can invest my energy in the making and material decisions rather than rethinking the foundation.*
 *My concrete action points in the future are as follows. First, I will begin collecting and organising my data across the defined fields, drawing from my call logs, text logs, and calculated distances, so that I have a complete dataset to work from. Second, I will start creating my physical work to get ahead of my time management. Third, I will develop the visual language of the piece, considering how colour, texture, and structure can communicate the variation between relationships without relying on written explanation. Finally, I will revisit my five reference projects with fresh eyes, now that the no-legend decision has been made, to see what further guidance they offer on letting physical form speak for itself.* 
 
+## - Independent Study 
+
+### Project Development
+
+![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.18.40 PM.png)
+
+![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.23.25 PM.png)
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*

@@ -97,7 +97,7 @@ layout: default
 
 ![Alt text](../assets/week-06/Screenshot%202026-05-15%20at%203.51.16 PM.png)
 
-*Refining Iterations of my Project - What the beads might look like on yarn*
+*- Refining Iterations of my Project - What the beads might look like on yarn*
 <br>
 
 *I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*

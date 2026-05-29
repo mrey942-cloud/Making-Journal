@@ -45,7 +45,15 @@ layout: default
 ### 2. Project Development
 
 *The next phase is getting physical. Here's where I'm at and what needs to happen:*
-*The base I'm planning to use is a thin square wooden board around 50x50cm, light enough to mount on a wall but sturdy enough to hold the tension from the yarn strands. I'll draw the layout in pencil first, mark my central point, and plot each of the 11 friends at their correct distances to scale before committing to anything permanent.*
+*The base I'm planning to use is a thin square wooden board around 30x30cm, light enough to mount on a wall if I choose to, but sturdy enough to hold the tension from the yarn strands. I'll draw the layout in pencil first, mark my central point, and plot each of the 10 friends at their correct distances to scale before committing to anything permanent.*
+
+*- Development drawings of what my data visualisation would look like, using special markers as the anchor points of my project.*
+
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.48 PM.png)
+
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.44.04 PM.png)
+
+![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.31 PM.png)
 <br>
 
 *One challenge I worked through was how to physically display the yarn connections without everything becoming too condensed at the anchor points. My original idea was simple nails or panel pins, but I realised this would bunch the yarn, making it hard to read from a distance. Instead, I'm now thinking about using wire bent into small cascading spirals at each anchor point. The different connection points along the spiral would spread the yarn naturally rather than forcing it all onto one nail, helping the strands breathe and separate visually. This also connects nicely to Alissa's feedback about showing friendship strength. The size of each spiral can vary depending on how close the friendship is, so a best friend gets a larger spiral and a more distant friend gets a smaller one. This means I don't have to change the physical distance of the markers on the board, which stays important for showing geography, but the spiral size adds a second layer of meaning at the anchor point itself. I'll need 2mm wire, which I'll pick up from Spotlight.*
@@ -62,13 +70,6 @@ layout: default
 
 ## Images & Media
 
-*Development drawings of what my data visualisation would look like, using special markers as the anchor points of my project.*
-
-![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.48 PM.png)
-
-![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.44.04 PM.png)
-
-![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.31 PM.png)
 
 
 ## AI Usage Statement
