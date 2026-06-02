@@ -47,7 +47,7 @@ layout: default
 *The next phase is getting physical. Here's where I'm at and what needs to happen:*
 *The base I'm planning to use is a thin square wooden board around 30x30cm, light enough to mount on a wall if I choose to, but sturdy enough to hold the tension from the yarn strands. I'll draw the layout in pencil first, mark my central point, and plot each of the 10 friends at their correct distances to scale before committing to anything permanent.*
 
-`*Development drawings of what my data visualisation would look like, using special markers as the anchor points of my project.*`
+`Development drawings of what my data visualisation would look like, using special markers as the anchor points of my project.`
 
 ![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.48 PM.png)
 

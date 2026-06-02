@@ -43,15 +43,6 @@ layout: default
 
 ## - Independent Study 
 
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
-
 ## AI Usage Statement
 
 *I used Claude as for ideation, helping to refine project ideas through conversational prompting. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
