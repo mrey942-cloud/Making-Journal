@@ -38,9 +38,9 @@ layout: default
 *Beyond that, the session confirmed that my overall direction is strong and that the concept is communicating clearly to an outside audience. That in itself is useful information, as it means I can invest my energy in the making and material decisions rather than rethinking the foundation.*
 *My concrete action points in the future are as follows. First, I will begin collecting and organising my data across the defined fields, drawing from my call logs, text logs, and calculated distances, so that I have a complete dataset to work from. Second, I will start creating my physical work to get ahead of my time management. Third, I will develop the visual language of the piece, considering how colour, texture, and structure can communicate the variation between relationships without relying on written explanation. Finally, I will revisit my five reference projects with fresh eyes, now that the no-legend decision has been made, to see what further guidance they offer on letting physical form speak for itself.* 
 
-## - Independent Study 
-
 ------
+
+## - Independent Study 
 
 
 ### Project Development
@@ -51,7 +51,7 @@ layout: default
 *I started out physically making my spiral markers with 1.5mm wire. I chose this thickness as it was sturdy enough to be able to hold the tough of the yarn installations but also be manageable enough for me to manipulate without hurting myself. I spent quite a long time shaping each wire spiral, keeping in mind the size differences, so that each of my relationships would correspond to the size of the spiral. I made my personal wire sirla the widest and tallest as it is the project's anchor point, and because I have the closest relationship with myself. No one knows better than I do. At the end, I had 11 wire spirals complete and ready to use, one for me and 10 to represent my friends.*
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.23.25 PM.png)
-
+`Data visualisation so far...`
 *The next stage of making was creating the board for my project to sit upon. I started by painting a gradient on my 30 cm x 30 cm board base, which I already had at home. The gradient indicates the distance between the markers, since I can't realistically place them from my location. I chose to use the colours: terracotta to signify the proximity to my location, sage as a middle land and dusty blue to symbolise the distance of faraway continents over water. These colours worked well to create my gradient.*
 <br>
 
