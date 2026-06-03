@@ -39,6 +39,9 @@ layout: default
 
 ### 1. Project Statement
 
+------
+
+
 ## - Independent Study 
 
 ## AI Usage Statement

@@ -55,9 +55,10 @@ layout: default
 
 ### Project Planning and Skills Roadmap
 
-![Alt text](../assets/week-06/IMG_1085%203.jpg)
+![Alt text](../assets/week-06/Untitled_Artwork%2084.png)
 
-*The diagram shows my idea of my data physicalisation, with a horizontal baseline representing physical distance and a central vertical axis marking my position. Anchor points (black dots) are placed along the baseline at varying distances from the centre, each representing a friend. From each anchor point, yarn strands arc upward toward the centre line; the height and density of the arcs suggest the volume and frequency of contact over the observation period. Multiple coloured lines overlap to build up a layered portrait of each friendship, with colours corresponding to the visual code. The overall form resembles a web or string instrument, dense near the centre and sparse at the outer edges.*
+
+*The diagram shows my idea of my data physicalisation, with a spacial layout representing physical distance and a central vertical axis marking my position. Anchor points (black dots) are placed along the board at varying distances from the centre, each representing a friend. From each anchor point, yarn strands arc upward toward the centre line; the height and density of the arcs suggest the volume and frequency of contact over the observation period. Multiple coloured lines overlap to build up a layered portrait of each friendship, with colours corresponding to the visual code. The overall form resembles a web or string instrument, dense near the centre and sparse at the outer edges.*
 
 #### What do I need to learn?
 
@@ -106,7 +107,7 @@ layout: default
 *The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
 
 ### Inital Concept Sketch
-`![Alt text](../assets/week-01/your-image.jpg)`
+![Alt text](../assets/week-06/IMG_1085%203.jpg)
 `Independent Study - Initial Concept Sketch`
 
 ## AI Usage Statement

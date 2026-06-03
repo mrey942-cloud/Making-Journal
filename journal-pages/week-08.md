@@ -34,6 +34,8 @@ layout: default
 
 *She responded well to that last point, and it opened up a good conversation about whether the process or the final portrait is actually the more interesting thing in her project.*
 
+------
+
 ## - Independent Study 
 
 ### 1. Reflective Summary

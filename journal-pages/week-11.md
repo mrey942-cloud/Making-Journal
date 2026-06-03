@@ -52,6 +52,8 @@ layout: default
 
 `Screenshot of where I placed my marker for the showcase Miro board preferred location.`
 
+------
+
 ## - Independent Study 
 
 ### Project Finalisation and Submission

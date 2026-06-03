@@ -50,6 +50,8 @@ layout: default
 
 *Alissa's challenge to strip everything back forced me to test whether the project could survive on two yarn colours, texture, and knots only. In some ways, it worked. The system was immediately readable, and the texture idea was genuinely interesting, the difference between smooth and rough yarn carrying the emotional quality of a conversation in a way that felt tactile and honest.But sitting with it, I realised it had given up too much. Removing beads entirely meant losing call duration, which felt like a significant loss; a 2-minute check-in and a 3-hour catch-up would look identical on the strand, and that difference matters. The texture idea also started to feel impractical once I considered sourcing materials consistently across 11 strands, with matching weights but different textures, and whether subtle texture differences would even read visually from a distance. What iteration 2 really gave me was an editorial filter. Going back to my first rulebook with fresh eyes, I could now ask of every element, " Is this earning its place, or is it just noise? That question led me to reduce the yarn palette to four colours rather than keeping it open-ended, drop the texture system in favour of beads, which are more precise and sourceable, and keep the knot system largely intact because it was doing clear, irreplaceable work. The final rulebook is more complex than iteration 2 but leaner and more deliberate than iteration 1, which is exactly where I needed to land.*
 
+------
+
 ## - Independent Study
 
 ### 1. Project Development & Skill Building

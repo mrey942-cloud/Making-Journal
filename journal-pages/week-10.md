@@ -40,6 +40,9 @@ layout: default
 
 ## - Independent Study 
 
+------
+
+
 ### Project Development
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.18.40 PM.png)
