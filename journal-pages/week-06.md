@@ -6,8 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
 ## - In-class Learning
 
 ### Data Exploration
@@ -83,6 +81,9 @@ layout: default
 *Alongside this, I will begin experimenting with physical visualisation methods using yarn, colour, knotting, and spacing. I want to test how different materials and textures convey emotional closeness, communication consistency, and distance in friendships. Creating small mock-ups will help me understand what visual language is most readable and emotionally effective.*
 
 *I also need to sketch the installation layout and plan how the solar-system-inspired structure will work spatially. Throughout the process, I will document my experiments and reflections with photos and notes to evaluate what works and refine the final installation before constructing the full piece.* 
+
+------
+
 
 ## - Independent Study
 

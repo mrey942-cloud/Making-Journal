@@ -6,8 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
 ## - In Class Work 
 
 ### 1. Project Statement: First Draft

@@ -6,8 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
 *-Sick Leave: Unfortunately, during week 8, I was ill and unable to attend class in person. To correct this, I paired up with a classmate to finish the work I had been unable to complete in class.*
 
 ## - In Class Work 
