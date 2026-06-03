@@ -23,7 +23,7 @@ layout: default
 *This resonated with me immediately and has genuinely shifted how I think about the work. Removing the legend isn't a loss of clarity but a deliberate design choice that brings the piece closer to its subject. There is something meaningful in leaving space for the unknown, for the viewer to sense the relationships rather than decode them. That ambiguity doesn't undermine the data visualisation; it deepens it, and it is part of what makes this project feel personal rather than purely analytical.*
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-25%20at%204.12.25 PM.png)
-`A screenshot of our class pallet board.`
+`A screenshot of our group pallet board.`
 
 ## 2. Gallery Walk
 *Reading through the class's pallet board, I couldn't see that everyone gave really insightful feedback, which would be helpful to the owner. I took my time reading through some comments and liking the ones I felt would be most beneficial to the owner.*
@@ -46,8 +46,19 @@ layout: default
 ### Project Development
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.18.40 PM.png)
+`Creating the wire spiral markers.`
+
+*I started out physically making my spiral markers with 1.5mm wire. I chose this thickness as it was sturdy enough to be able to hold the tough of the yarn installations but also be manageable enough for me to manipulate without hurting myself. I spent quite a long time shaping each wire spiral, keeping in mind the size differences, so that each of my relationships would correspond to the size of the spiral. I made my personal wire sirla the widest and tallest as it is the project's anchor point, and because I have the closest relationship with myself. No one knows better than I do. At the end, I had 11 wire spirals complete and ready to use, one for me and 10 to represent my friends.*
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.23.25 PM.png)
+
+*The next stage of making was creating the board for my project to sit upon. I started by painting a gradient on my 30 cm x 30 cm board base, which I already had at home. The gradient indicates the distance between the markers, since I can't realistically place them from my location. I chose to use the colours: terracotta to signify the proximity to my location, sage as a middle land and dusty blue to symbolise the distance of faraway continents over water. These colours worked well to create my gradient.*
+<br>
+
+*I then wrote my friends' names down on pages and placed them where I wanted their spirals to be stuck. This helped me to iterate on the layout without making permanent decisions. Once I was happy with the paper layout. I used a 1.5mm drill bit to drill small holes in the board so I could arch the wire spirals into them. Then, following up by gluing them down to secure their position.*
+<br>
+
+*Overall, I am really happy with the first stages of my physical making, and now I am ready to bring the data visualisation to life with the data I have been collecting.*
 
 
 ## AI Usage Statement
