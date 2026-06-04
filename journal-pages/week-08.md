@@ -50,6 +50,7 @@ layout: default
 `Development drawings of what my data visualisation would look like, using special markers as the anchor points of my project.`
 
 ![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.43.48 PM.png)
+`Birds-eye View`
 
 ![Alt text](../assets/week-08/Screenshot%202026-05-21%20at%208.44.04 PM.png)
 
@@ -62,16 +63,17 @@ layout: default
 *Getting materials - Before buying everything new, I will look through my house for already exisitng materials, then I want to try thrifting for yarn and other craft supplies. It feels right for a project about human connection to use materials that have already had a life. I'll hit a few local op shops first and only go to Spotlight for whatever I can't find. The shopping list is: Yarn in red, black, pale blue, and green. Seed beads in grey, amber, pink, and purple. 1.5 mm wire for the spiral anchor points. A thin wooden board, if Spotlight stocks them, otherwise Bunnings*
 <br>
 
+*To collect my data, I will use an Excel spreadsheet to track all the categories of data I need to collect. I have clamped my Visual Code and asked it to create an Excel spreadsheet with 10 tabs, one for each person I need to collect data from. Claude created a really amazing spreadsheet made of dropdown boxes, so it is easy for me to fill out. Making the task easy will help me stay consistent and fill out the table every day/second day. I am always on my laptop doing uni work, so having the spreadsheet open will also help me stay consistent as I fill it out.*
+
+
 ![Alt text](../assets/week-08/Screenshot%202026-06-04%20at%209.42.11 PM.png)
 `Screenshot of my data collection Spreadsheet.`
 
-*To collect my data, I will use an Excel spreadsheet to track all the categories of data I need to collect. I have clamped my Visual Code and asked it to create an Excel spreadsheet with 10 tabs, one for each person I need to collect data from. Claude created a really amazing spreadsheet made of dropdown boxes, so it is easy for me to fill out. Making the task easy will help me stay consistent and fill out the table every day/second day. I am always on my laptop doing uni work, so having the spreadsheet open will also help me stay consistent as I fill it out.*
-<br>
 
 *Building the strands - Once I have enough data collected, I'll start the construction process. I'm aware that the making will be time-consuming, and I may need to adjust some tactics as I go if things aren't working physically.*
 
 #### What I still need to figure out
-*How to attach yarn to the wire spirals so it holds tension cleanly without slipping. Whether to varnish or seal the wood board, or leave it raw. How to display the legend alongside the piece in a way that feels considered, possibly a small printed card mounted beside it, rather than something stuck directly onto the board*
+*How to display the legend alongside the piece in a way that feels considered, possibly a small printed card mounted beside it, rather than something stuck directly onto the board*
 
 
 ## AI Usage Statement
