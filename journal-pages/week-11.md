@@ -41,7 +41,7 @@ layout: default
 *I want my project to make people stop and think about their own friends, whether that may be a close friend they see often, or someone that is out of reach that they want to catch up with more.*
 #### What surprised you most in the making process?
 *As I am currently in the middle of the making process, I don't have much to say on the topic. However, I am much more motivated to collect the data than I thought I would be, and it has been interesting to see the developments in my dataset.*
-------
+<br>
 
 *Response improvements - I want to be more confident in my responses. I know what I am talking about and have spent a lot of time thinking of my ideas, so I just need to articulate that in the way I deliver my response when the final consultation is happening.* 
 
