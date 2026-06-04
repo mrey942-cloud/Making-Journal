@@ -8,6 +8,8 @@ layout: default
 
 ## Project Statement
 
+![Alt text](../assets/week-12/Screenshot%202026-06-04%20at%209.04.02 PM.png)
+
 ## Finial Artefact
 
 ![Alt text](../assets/week-12/fullclose.png)
