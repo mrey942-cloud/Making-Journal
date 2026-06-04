@@ -26,6 +26,8 @@ layout: default
 ## 2. Gallery Walk
 ![Alt text](../assets/week-10/Screenshot%202026-05-25%20at%204.12.25 PM.png)
 `A screenshot of our group pallet board.`
+<br>
+
 *Reading through the class's pallet board, I couldn't see that everyone gave really insightful feedback, which would be helpful to the owner. I took my time reading through some comments and liking the ones I felt would be most beneficial to the owner.*
 *I received good feedback on my personal pallet board, which will be helpful in refining my project.*
 
@@ -35,6 +37,8 @@ layout: default
 ### 3. Action Plan 
 
 *The most significant feedback I took from the critique session was the question of whether my project needs a legend at all. This single point has had the biggest impact on my thinking, shifting the legend from a practical necessity into an active design decision. The suggestion that the title and the project statement can carry the viewer into the work, and that real friendship doesn't come with labels, felt deeply aligned with the project's message. I am moving forward without a legend, trusting the viewer to feel the piece rather than read it.*
+<br>
+
 *Beyond that, the session confirmed that my overall direction is strong and that the concept is communicating clearly to an outside audience. That in itself is useful information, as it means I can invest my energy in the making and material decisions rather than rethinking the foundation.*
 *My concrete action points in the future are as follows. First, I will begin collecting and organising my data across the defined fields, drawing from my call logs, text logs, and calculated distances, so that I have a complete dataset to work from. Second, I will start creating my physical work to get ahead of my time management.*
 
