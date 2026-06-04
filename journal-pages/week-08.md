@@ -68,9 +68,5 @@ layout: default
 *How to attach yarn to the wire spirals so it holds tension cleanly without slipping. Whether to varnish or seal the wood board, or leave it raw. How to display the legend alongside the piece in a way that feels considered, possibly a small printed card mounted beside it, rather than something stuck directly onto the board*
 
 
-## Images & Media
-
-
-
 ## AI Usage Statement
 *I used Claude as for ideation, helping to refine project ideas through conversational prompting and refining my writing. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*

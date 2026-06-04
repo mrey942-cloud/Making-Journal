@@ -10,6 +10,7 @@ layout: default
 
 ### 1. Project Statement: First Draft
 
+#### Case Study 
 *Data sources - Labour and productivity metrics pulled from existing government and corporate systems. The kind of data already used to track, quantify, and evaluate human work*
 <br>
 
@@ -23,6 +24,10 @@ layout: default
 <br>
 
 #### NotebookLM Evaulation 
+
+![Alt text](../assets/week-09/Screenshot%202026-06-04%20at%204.52.31 PM.png)
+`Project Statment produced by NotebookLM.`
+
 
 *This is connected directly to the data feminism reading. The most important question you can ask about any dataset is who collected it and why. Felt relevant to my own project too, since I'm the one designing the system that measures my own friendships.*
 
