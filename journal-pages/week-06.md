@@ -71,7 +71,7 @@ layout: default
 *Data-to-material translation — how to work methodically through 28 days of data per friend and translate each day's entries into physical yarn decisions without losing track or making errors.*
 <br> 
 
-*Consistent data collection — building a reliable daily habit of recording observations accurately across all 11 friends for the full 28-day period.*
+*Consistent data collection — building a reliable daily habit of recording observations accurately across all 10 friends for the full 28-day period.*
 <br> 
 
 *Colour sourcing — finding yarn and beads in the exact colours specified in the visual code (red, black, pale blue, green, amber, pink, purple, grey) in compatible weights and textures.*
@@ -102,9 +102,8 @@ layout: default
 `Refining Iterations of my Project - What the beads might look like on yarn`
 <br>
 
-*I went through a few iterations, and one of the bigger shifts was reducing the yarn to four core colours and pushing more of the variation into the beads and knots. It felt right because the yarn carries the broad shape of the month at a glance, and the detail only comes through when you get close.*
-*Drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
-*The main thing I took from this is that the next real test will be working with the actual yarn. Getting into the materials will probably surface a whole new set of problems, but I feel ready for that now.*
+*I went through a few iterations, drawing out the refined diagrams was actually really useful because it forced me to make decisions I'd been leaving vague, like where exactly a bead sits on a segment, or how a loose loop looks next to a tight knot. Some things I thought were resolved on paper turned out not to be until I drew them properly.*
+
 
 ### Inital Concept Sketch
 ![Alt text](../assets/week-06/IMG_1085%203.jpg)

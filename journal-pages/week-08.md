@@ -21,7 +21,7 @@ layout: default
 *Solar system layout — she liked the spatial logic, but raised something I hadn't thought about — whether emotional closeness should influence placement as well as just physical distance in kilometres. Still thinking about this one.*
 <br>
 
-*The red strands — she was pretty direct about this, she thought the uncomfortable strands were the most powerful part of the concept and that the project should lean into that rather than away from it.*
+*The red strands — she was pretty direct about this, she thought the uncomfortable strands were a powerful part of the concept and that the project should lean into that rather than away from it.*
 
 
 ### 2. Critical Design Propositions
@@ -30,7 +30,7 @@ layout: default
 *A few observations I shared with her:*
 <br>
 
-*The collaborative data collection is the strongest part; her friends are participants, not just subjects.The biggest open question is how much guidance each friend gets when making their drawing: too open, and the layers won't cohere; too prescribed, and it loses emotional honesty. I proposed introducing a time dimension, building the portrait week by week as four separate layers rather than a single final stack, so the group's emotional mood can be seen shifting across the month rather than landing as a single fixed image.*
+*The collaborative data collection is the strongest part; her friends and family are participants. The biggest open question is how much guidance each friend gets when making their drawing: too open, and the layers won't cohere; too prescribed, and it loses emotional honesty. I proposed introducing a time dimension, building the portrait week by week as four separate layers rather than a single final stack, so the group's emotional mood can be seen shifting across the month rather than landing as a single fixed image.*
 
 *She responded well to that last point, and it opened up a good conversation about whether the process or the final portrait is actually the more interesting thing in her project.*
 
