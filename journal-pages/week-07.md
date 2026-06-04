@@ -84,7 +84,20 @@ layout: default
 
 ### 2. Progress Report
 
+![Alt text](../assets/week-07/Screenshot%202026-06-04%20at%204.41.07 PM.png)
+`The presentation I made, ready to show in week 8 crits.`
+
+*My main questions I want feedback on are:
+*1. Is the visual code too complex? - My rulebook has four yarn colours, four bead types, and five knot variations. Is that too much for a viewer standing in front of the piece — even with a legend — or does the layering feel like part of the depth of the work?*
+<br>
+
+*2. Does the solar system layout hold up? - I'm placing friends at distances from the centre that reflect real kilometres. Does that spatial logic feel clear and meaningful, or is there a stronger or more interesting structure I haven't considered?*
+<br>
+
+*3. What do nearly silent strands mean for the project? - Some friends I barely contacted during the month. A strand that is almost entirely red feels honest — but does it read as a failure of the installation, or is that discomfort exactly the point?*
+
+
 
 ## AI Usage Statement
 
-*I used Claude as for ideation, helping to refine project ideas through conversational prompting. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
+*I used Claude as for ideation, helping to refine project ideas through conversational prompting and refining my writing. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*

@@ -46,4 +46,4 @@ layout: default
 
 ## AI Usage Statement
 
-*I used Claude as for ideation, helping to refine project ideas through conversational prompting. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
+*I used Claude as for ideation, helping to refine project ideas through conversational prompting and refining my writing. Anthropic. (2026). Claude (claude-sonnet-4-6) [Large language model]. https://claude.ai*
