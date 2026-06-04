@@ -80,19 +80,17 @@ layout: default
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.51.45 PM.png)
 
-*After hours of threading beads and one sore back later, I finished putting all my data into my physical visualisation. I was very happy when I finished, as I finally saw my vision come to life. Although it didn't turn out exactly as I had hoped, I am still happy with the result. My idea of uncovering the hidden emotional labour of maintaining friendship over distance is still clearly conveyed in this visualisation.* 
+*After hours of threading beads and one sore back later, I finished putting all my data into my physical visualisation. I was very happy when I finished, as I finally saw my vision come to life. Although it didn't turn out exactly as I had hoped, I am still happy with the result. My idea of uncovering the hidden emotional labour of maintaining friendship over distance is still clearly conveyed in this visualisation. Comparing my final project to my initial sketch, I can see many similarities. It's funny to think about all the hours of thinking and change that have gone into making this project, despite how surreal my initial vision looked.* 
 <br>
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%208.03.39 PM.png)
 
-*My next steps for the final submission are taking final artefact photos, finishing my project statement, printing it, and putting it in a frame to display it next to my project during week 12 studio time.*
+*With my project completed, I need to finalise my project statement to accompany it. Finishing the statement and critically reflecting on all the information needed to make my project stand alone, without the supporting visual code.*
 
-### Project Finalisation and Submission
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%208.30.09 PM.png)
+`Finial Project Statment.`
 
-
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+*My next steps to be ready for the final submission is taking final artefact photos, printing my project statement, and putting it in a frame to display it next to my project during week 12 studio time.*
 
 
 ## AI Usage Statement
