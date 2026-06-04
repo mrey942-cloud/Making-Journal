@@ -40,6 +40,7 @@ layout: default
 #### What impact do you want your visualisation to have?
 *I want my project to make people stop and think about their own friends, whether that may be a close friend they see often, or someone that is out of reach that they want to catch up with more.*
 #### What surprised you most in the making process?
+*As I am currently in the middle of the making process, I don't have much to say on the topic. However, I am much more motivated to collect the data than I thought I would be, and it has been interesting to see the developments in my dataset.*
 ------
 
 *Response improvements - I want to be more confident in my responses. I know what I am talking about and have spent a lot of time thinking of my ideas, so I just need to articulate that in the way I deliver my response when the final consultation is happening.* 
@@ -68,6 +69,7 @@ layout: default
 *I brainstormed removing the yarn entirely and just using white sewing thread to attach my beads to the installation. Even though I didn't feel fully confident taking away a really large part of my assignment that I had put lots of thought and effort into, there wasn't much I could do in the time I had. If I had a bigger board and more wire spools, the yarn would have been okay to use, but it was too hard to maneuver within the time frame I had. With my new plan of action, I had to start by updating my visual code to reflect my new constraints.*
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.40.35 PM.png)
+`New Final Visual Code`
 
 *I had to cut down on a few features I was originally going to add to my data visualisation, such as mood. I did this because I didn't have enough bead types or enough space between markers to add any more material that would weigh down the thin sewing thread. This, however, isn't really a big issue, as the project's main concept and impact remain intact.* 
 <br>
