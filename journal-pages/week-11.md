@@ -56,6 +56,9 @@ layout: default
 
 ## - Independent Study 
 
+### Project Development
+
+
 ### Project Finalisation and Submission
 
 
