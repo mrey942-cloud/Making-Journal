@@ -66,11 +66,9 @@ layout: default
 `Screenshot of my data collection Spreadsheet.`
 
 *To collect my data, I will use an Excel spreadsheet to track all the categories of data I need to collect. I have clamped my Visual Code and asked it to create an Excel spreadsheet with 10 tabs, one for each person I need to collect data from. Claude created a really amazing spreadsheet made of dropdown boxes, so it is easy for me to fill out. Making the task easy will help me stay consistent and fill out the table every day/second day. I am always on my laptop doing uni work, so having the spreadsheet open will also help me stay consistent as I fill it out.*
+<br>
 
-
-
-
-*Building the strands. Once I have enough data collected, I'll start construction, building each strand day by day rather than all at once at the end. This means the installation will be a living, growing object over the 28 days, which adds an honest element to the concept — it's always mid-process, just like the friendships it's documenting. I'm aware that the making will be time-consuming, and I may need to adjust some tactics as I go if things aren't working physically.*
+*Building the strands - Once I have enough data collected, I'll start the construction process. I'm aware that the making will be time-consuming, and I may need to adjust some tactics as I go if things aren't working physically.*
 
 #### What I still need to figure out
 *How to attach yarn to the wire spirals so it holds tension cleanly without slipping. Whether to varnish or seal the wood board, or leave it raw. How to display the legend alongside the piece in a way that feels considered, possibly a small printed card mounted beside it, rather than something stuck directly onto the board*
