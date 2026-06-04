@@ -59,6 +59,7 @@ layout: default
 *I started out physically making my spiral markers with 1.5mm wire. I chose this thickness as it was sturdy enough to be able to hold the tough of the yarn installations but also be manageable enough for me to manipulate without hurting myself. I spent quite a long time shaping each wire spiral, keeping in mind the size differences, so that each of my relationships would correspond to the size of the spiral. I made my personal wire sirla the widest and tallest as it is the project's anchor point, and because I have the closest relationship with myself. No one knows better than I do. At the end, I had 11 wire spirals complete and ready to use, one for me and 10 to represent my friends.*
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.23.25 PM.png)
+
 `Data visualisation so far...`
 
 *The next stage of making was creating the board for my project to sit upon. I started by painting a gradient on my 38 cm x 38 cm board base, which I already had at home. The gradient indicates the distance between the markers, since I can't realistically place them from my location. I chose to use the colours: terracotta to signify the proximity to my location, sage as a middle land and dusty blue to symbolise the distance of faraway continents over water. These colours worked well to create my gradient.*
