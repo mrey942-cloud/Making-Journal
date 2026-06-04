@@ -76,6 +76,11 @@ layout: default
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.45.51 PM.png)
 
+*After cutting off all the old yarn on my project base, I started threading the beads onto the structure. I quickly saw the difference this made to the project's aesthetic, making it look much clearer and the beads more visible. The thin sewing thread didn't make the project look bulky or childish; it gave it a more minimalist look that I quite like and made the beads look like they were suspended in the air. The more I looked at my project, the more I thought the spiral looked like cellphone signal towers. This was a really cool comparison, as it relates to how I collected data from my phone.*
+
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.51.45 PM.png)
+
+
 
 ### Project Finalisation and Submission
 
