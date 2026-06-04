@@ -42,7 +42,6 @@ layout: default
 *Beyond that, the session confirmed that my overall direction is strong and that the concept is communicating clearly to an outside audience. That in itself is useful information, as it means I can invest my energy in the making and material decisions rather than rethinking the foundation.*
 *My concrete action points in the future are as follows. First, I will begin collecting and organising my data across the defined fields, drawing from my call logs, text logs, and calculated distances, so that I have a complete dataset to work from. Second, I will start creating my physical work to get ahead of my time management.*
 
-*My prototyping from week 9 really set me up for success this week. By having a good understanding of what I needed to do and how to do it, I quickly achieved my goals to a high standard.*
 
 ------
 
