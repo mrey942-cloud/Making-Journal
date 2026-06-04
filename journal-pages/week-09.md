@@ -41,9 +41,12 @@ layout: default
 
 *One sentence that commits to the direction - This installation makes visible the quiet, unacknowledged work of staying close to people across distance, encoding 28 days of real friendship data into yarn, beads, and knots so that what is usually invisible becomes something you can stand in front of and feel.*
 
+<br>
+
 #### Disclaimer
 
 *- I was still feeling slightly unwell after my time off from uni the week prior. I decided to leave class early and do the work from home, as being in class wasn't making me feel good, and I wasn't concentrating as well as I needed to. I knew that if I went home early, I could start prototyping my project, since there wasn't much I could do in class. Going home early and not completing the other in-class activities was in my personal best interest and the best interest of my work.*
+<br>
 
 ------
 
