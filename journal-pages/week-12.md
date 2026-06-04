@@ -19,13 +19,13 @@ layout: default
 `Overhead Shot`
 
 ![Alt text](../assets/week-12/detail1.png)
-`Deatil Shot 1`
+`Detail Shot 1`
 
 ![Alt text](../assets/week-12/detail2.png)
-`Deatil Shot 2`
+`Detail Shot 2`
 
 ![Alt text](../assets/week-12/detail3.png)
-`Deatil Shot 3`
+`Detail Shot 3`
 
 
 ## AI Usage Statement
