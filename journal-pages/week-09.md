@@ -42,12 +42,28 @@ layout: default
 *One sentence that commits to the direction -This installation makes visible the quiet, unacknowledged work of staying close to people across distance, encoding 28 days of real friendship data into yarn, beads, and knots so that what is usually invisible becomes something you can stand in front of and feel.*
 
 
-### 1. Project Statement
+### 2. Making Sprint
+
+### 3. Round Robin Rapid Reactions
 
 ------
 
 
 ## - Independent Study 
+
+### 1. Project Development
+
+### 2. Progress Report
+
+![Alt text](../assets/week-09/Screenshot%202026-06-04%20at%204.58.15 PM.png)
+`The presentation I made, ready to show in week 10 crits.`
+
+#### My main questions I want feedback on are:
+*1. The wire spirals - The spiral idea is still quite new and I haven't tested it physically yet. Does it feel like a strong design decision or an unnecessary complication.*
+<br>
+
+*2. Displaying the legend - The visual code is detailed enough that the piece won't make sense without a legend. How do I display it in a way that feels like part of the work rather than just instructions pinned next to it?*
+
 
 ## AI Usage Statement
 

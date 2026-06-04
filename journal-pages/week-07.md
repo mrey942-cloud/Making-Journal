@@ -87,7 +87,7 @@ layout: default
 ![Alt text](../assets/week-07/Screenshot%202026-06-04%20at%204.41.07 PM.png)
 `The presentation I made, ready to show in week 8 crits.`
 
-*My main questions I want feedback on are:
+#### My main questions I want feedback on are:
 *1. Is the visual code too complex? - My rulebook has four yarn colours, four bead types, and five knot variations. Is that too much for a viewer standing in front of the piece — even with a legend — or does the layering feel like part of the depth of the work?*
 <br>
 
