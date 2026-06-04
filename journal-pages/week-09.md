@@ -12,7 +12,7 @@ layout: default
 
 #### Case Study 
 
-[Alt text](../assets/week-09/casestudy.png)
+![Alt text](../assets/week-09/casestudy.png)
 `Miro Board of the Case Study.`
 
 *Data sources - Labour and productivity metrics pulled from existing government and corporate systems. The kind of data already used to track, quantify, and evaluate human work*
