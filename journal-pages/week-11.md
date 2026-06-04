@@ -80,7 +80,12 @@ layout: default
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.51.45 PM.png)
 
+*After hours of threading beads and one sore back later, I finished putting all my data into my physical visualisation. I was very happy when I finished, as I finally saw my vision come to life. Although it didn't turn out exactly as I had hoped, I am still happy with the result. My idea of uncovering the hidden emotional labour of maintaining friendship over distance is still clearly conveyed in this visualisation.* 
+<br>
 
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%208.03.39 PM.png)
+
+*My next steps for the final submission are finishing my project statement, printing it, and putting it in a frame to display it next to my project during week 12 studio time.*
 
 ### Project Finalisation and Submission
 
