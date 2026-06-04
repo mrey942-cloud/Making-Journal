@@ -56,6 +56,7 @@ layout: default
 
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.23.25 PM.png)
 `Data visualisation so far...`
+
 *The next stage of making was creating the board for my project to sit upon. I started by painting a gradient on my 38 cm x 38 cm board base, which I already had at home. The gradient indicates the distance between the markers, since I can't realistically place them from my location. I chose to use the colours: terracotta to signify the proximity to my location, sage as a middle land and dusty blue to symbolise the distance of faraway continents over water. These colours worked well to create my gradient.*
 <br>
 
