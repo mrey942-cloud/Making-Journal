@@ -10,6 +10,16 @@ layout: default
 
 ## Finial Artefact
 
+![Alt text](../assets/week-12/fullclose.png)
+
+![Alt text](../assets/week-12/birdeye.png)
+
+![Alt text](../assets/week-12/detail1.png)
+
+![Alt text](../assets/week-12/detail2.png)
+
+![Alt text](../assets/week-12/detail3.png)
+
 `![Alt text](../assets/week-01/your-image.jpg)`
 `*Your caption here*`
 
