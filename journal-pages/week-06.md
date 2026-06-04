@@ -62,19 +62,19 @@ layout: default
 
 #### What do I need to learn?
 
-*Knotting and bead threading techniques — how to tie consistent overhand and double overhand knots at regular intervals without the yarn bunching or losing tension, and how to thread beads securely so they don't slide.*
+*Knotting and bead threading techniques - how to tie consistent overhand and double overhand knots at regular intervals without the yarn bunching or losing tension, and how to thread beads securely so they don't slide.*
 <br> 
 
-*Structural mounting — how to fix yarn strands under tension to a board so anchor points stay stable and the arcs hold their shape over the display period.*
+*Structural mounting - how to fix yarn strands under tension to a board so anchor points stay stable and the arcs hold their shape over the display period.*
 <br> 
 
-*Data-to-material translation — how to work methodically through 28 days of data per friend and translate each day's entries into physical yarn decisions without losing track or making errors.*
+*Data-to-material translation - how to work methodically through 28 days of data per friend and translate each day's entries into physical yarn decisions without losing track or making errors.*
 <br> 
 
-*Consistent data collection — building a reliable daily habit of recording observations accurately across all 10 friends for the full 28-day period.*
+*Consistent data collection - building a reliable daily habit of recording observations accurately across all 10 friends for the full 28-day period.*
 <br> 
 
-*Colour sourcing — finding yarn and beads in the exact colours specified in the visual code (red, black, pale blue, green, amber, pink, purple, grey) in compatible weights and textures.*
+*Colour sourcing - finding yarn and beads in the exact colours specified in the visual code (red, black, pale blue, green, amber, pink, purple, grey) in compatible weights and textures.*
 
 #### What are my next steps?
 *My next step is to finalise the observation protocol I will use to collect friendship data over a defined period. I need to decide exactly what information I will track daily, such as message frequency, who initiates contact, FaceTime calls, and response patterns. Once this system is clear, I will begin collecting and organising the data in my notebook and phone records.*

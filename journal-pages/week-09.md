@@ -41,10 +41,9 @@ layout: default
 
 *One sentence that commits to the direction -This installation makes visible the quiet, unacknowledged work of staying close to people across distance, encoding 28 days of real friendship data into yarn, beads, and knots so that what is usually invisible becomes something you can stand in front of and feel.*
 
+###
 
-### 2. Making Sprint
-
-### 3. Round Robin Rapid Reactions
+*- I was still feeling slightly unwell after my time off from uni the week prior. I decided to leave class early and do the work from home, as being in class wasn't making me feel good, and I wasn't concentrating as well as I needed to. I knew that if I went home early, I could start prototyping my project, since there wasn't much I could do in class. Going home early and not completing the other in-class activities was in my personal best interest and the best interest of my work.*
 
 ------
 
@@ -53,6 +52,10 @@ layout: default
 
 ### 1. Project Development
 
+*I wanted to get ahead of my physical making, so I made a prototype of my board-and-wire spiral idea. I found a scrap wooden board at my house that I could test painting on and figure out how to connect my spiral anchors to the base. The board wasn't the same size as the one I intended, but it did the job. I wanted to find a way to exaggerate the distance between my friends and me, since it cannot be to scale, since I am only doing this whole project on a small board. I thought about painting the board with a gradient to convey the idea of greater distance. I started by painting the board white and adding a terracotta gradient that was more saturated in the middle and then faded out to the end of the board. This effect looked really cool and visually achieved what I wanted. Based on my prototype, I decided to add more colours to the gradient on the board, as it looks 1-dimensional. By adding more colours, my project will be enhanced.*
+<br>
+
+*I then moved on to attaching a spiral to the wooden board. I started by drilling a 1.5mm hole into the board, then putting high-strength PVA glue on the wire spiral end and letting it dry. After a day of drying, the spiral was completely solid in the board, which was a good sign, as this is an attachment method I can use on my final project because it works well.* 
 
 ### 2. Progress Report
 
