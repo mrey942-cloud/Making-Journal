@@ -58,6 +58,24 @@ layout: default
 
 ### Project Development
 
+*Carrying on from my week 10 physical making. I started by adding the actual data I collected, following my visual code, and using the data from the last 28 days (May 1 - May 29), which I kept track of in an Excel spreadsheet.*
+<br>
+
+*I quickly noticed a major issue during yarn installation. I hated the way it looked. The yarn looked very messy and did not match the vision I had in mind. Even though I had purchased thin yarn, it still wasn't good enough. threading the yarn through each bead was extremely time-consuming, as was changing the yarn colour to match the visual code for the collected data. I was really upset by this, but I had to resolve the issue and come up with something new, as I am in the final week of making before handing in.*
+
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.34.12 PM.png)
+
+*I brainstormed removing the yarn entirely and just using white sewing thread to attach my beads to the installation. Even though I didn't feel fully confident taking away a really large part of my assignment that I had put lots of thought and effort into, there wasn't much I could do in the time I had. If I had a bigger board and more wire spools, the yarn would have been okay to use, but it was too hard to maneuver within the time frame I had. With my new plan of action, I had to start by updating my visual code to reflect my new constraints.*
+
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.40.35 PM.png)
+
+*I had to cut down on a few features I was originally going to add to my data visualisation, such as mood. I did this because I didn't have enough bead types or enough space between markers to add any more material that would weigh down the thin sewing thread. This, however, isn't really a big issue, as the project's main concept and impact remain intact.* 
+<br>
+
+*Once I finished the new visual code, I started working on my project using the data from my Excel spreadsheet.* 
+
+![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%207.45.51 PM.png)
+
 
 ### Project Finalisation and Submission
 

@@ -53,6 +53,7 @@ layout: default
 
 ### 1. Project Development
 
+
 ### 2. Progress Report
 
 ![Alt text](../assets/week-09/Screenshot%202026-06-04%20at%204.58.15 PM.png)
