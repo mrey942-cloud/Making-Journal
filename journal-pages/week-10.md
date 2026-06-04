@@ -49,6 +49,8 @@ layout: default
 
 ### Project Development
 
+*My prototyping from week 9 really set me up for success this week. By having a good understanding of what I needed to do and how to do it, I quickly achieved my goals to a high standard.*
+
 ![Alt text](../assets/week-10/Screenshot%202026-05-29%20at%203.18.40 PM.png)
 `Creating the wire spiral markers.`
 
