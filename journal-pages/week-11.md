@@ -85,7 +85,7 @@ layout: default
 
 ![Alt text](../assets/week-11/Screenshot%202026-06-04%20at%208.03.39 PM.png)
 
-*My next steps for the final submission are finishing my project statement, printing it, and putting it in a frame to display it next to my project during week 12 studio time.*
+*My next steps for the final submission are taking final artefact photos, finishing my project statement, printing it, and putting it in a frame to display it next to my project during week 12 studio time.*
 
 ### Project Finalisation and Submission
 
